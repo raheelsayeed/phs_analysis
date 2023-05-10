@@ -20,7 +20,7 @@ def AWS_REGION():
 
 _HEALTHLAKE_DATASTORE_ID = '<>'
 _HEALTHLAKE_DATASTORE_ENDPOINT = f'https://healthlake.{_AWS_REGION}.amazonaws.com/datastore/{_HEALTHLAKE_DATASTORE_ID}/r4/'
-_HEALTHLAKE_DATA_ACCESS_ROLE = 'arn:aws:iam::131272801455:role/AmazonHealthLakeServiceRole-HealthLakeDemo'
+_HEALTHLAKE_DATA_ACCESS_ROLE = ''
 
 # 
 
